@@ -1,1 +1,1 @@
-# waves
+# Waves Music Player
